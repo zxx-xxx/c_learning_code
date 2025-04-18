@@ -1,0 +1,10 @@
+file:D:\visual_studio2022_workspace\test_2025\test_4_18\test.c line:16 date:Apr 18 2025 time:11:38:39 i=0
+file:D:\visual_studio2022_workspace\test_2025\test_4_18\test.c line:16 date:Apr 18 2025 time:11:38:39 i=1
+file:D:\visual_studio2022_workspace\test_2025\test_4_18\test.c line:16 date:Apr 18 2025 time:11:38:39 i=2
+file:D:\visual_studio2022_workspace\test_2025\test_4_18\test.c line:16 date:Apr 18 2025 time:11:38:39 i=3
+file:D:\visual_studio2022_workspace\test_2025\test_4_18\test.c line:16 date:Apr 18 2025 time:11:38:39 i=4
+file:D:\visual_studio2022_workspace\test_2025\test_4_18\test.c line:16 date:Apr 18 2025 time:11:38:39 i=5
+file:D:\visual_studio2022_workspace\test_2025\test_4_18\test.c line:16 date:Apr 18 2025 time:11:38:39 i=6
+file:D:\visual_studio2022_workspace\test_2025\test_4_18\test.c line:16 date:Apr 18 2025 time:11:38:39 i=7
+file:D:\visual_studio2022_workspace\test_2025\test_4_18\test.c line:16 date:Apr 18 2025 time:11:38:39 i=8
+file:D:\visual_studio2022_workspace\test_2025\test_4_18\test.c line:16 date:Apr 18 2025 time:11:38:39 i=9
